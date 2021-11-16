@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Users\\Bram Kreuger\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.analysis.extraPaths": ["./debiaswe"]
+}
